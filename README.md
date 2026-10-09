@@ -1,3 +1,5 @@
+![Structural A and bridge artwork](assets/Adel_Engineering_Header.png)
+
 # Hi, I'm Adel Ismail
 
 I'm a civil engineering student at Nile University.
